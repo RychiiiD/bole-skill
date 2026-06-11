@@ -1,0 +1,18 @@
+{
+  "name": "bole-skill",
+  "version": "1.0.0",
+  "description": "伯乐 — AI 求职助手。一句话启动，多平台自动扫盘 → 跨源去重 → 政府资质交叉对比 → 透明评分排序",
+  "skills": {
+    "bole": "SKILL.md"
+  },
+  "keywords": ["求职", "招聘", "岗位", "找工作", "agent-skills"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RychiiiD/bole-skill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RychiiiD/bole-skill/issues"
+  },
+  "homepage": "https://github.com/RychiiiD/bole-skill#readme"
+}
